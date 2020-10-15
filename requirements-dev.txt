@@ -6,7 +6,7 @@ zipp==3.1.0
 
 #Dependencias do pytest
 attrs==20.1.0
-iniconfig==1.0.1
+iniconfig==1.1.1
 more-itertools==8.4.0
 packaging==20.4
 pluggy==0.13.1
