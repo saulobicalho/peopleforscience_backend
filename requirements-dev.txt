@@ -17,6 +17,6 @@ six==1.15.0
 
 #Cobertura de testes
 coverage==5.2.1
-pytest-cov==2.10.1
+pytest-cov==2.12.1
 
 -r requirements.txt
